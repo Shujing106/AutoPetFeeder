@@ -13,6 +13,9 @@ Step motor
 Paperboard  
 Large plastic bottle
 
+# Circuit Diagram
+![image](https://github.com/Shujing106/realtimeEmbedded/blob/main/image/circuitDiagram.JPG)
+
 # Object
 * Limiting conditions:  
    1.There will be a 4h cooldown time after feeding is first turned on.  
