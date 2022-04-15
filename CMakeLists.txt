@@ -3,5 +3,5 @@ project(realtimeEmbedded)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(realtimeEmbedded  ult.h ult.cpp )
+add_executable(realtimeEmbedded  ult.cpp ult.h)
 target_link_libraries(realtimeEmbedded  wiringPi)
