@@ -17,6 +17,7 @@ void weight::start(weight::hx711_args *value) {
     while (digitalRead(SCK));
     value->value = 0;
     while (digitalRead(SDA));
+    delay(100);
 
     for (i = 0; i < 24; i++) {
         digitalWrite(SCK, HIGH);
@@ -48,14 +49,9 @@ int weight::setup(weight::hx711_args *value) {
 }
 
 
-void loop(struct weight::hx711_args *value){
+void weight::loop(struct weight::hx711_args *value){
     while(1)
         weight::start(value);
 }
 
-int main(void){
-    struct weight::hx711_args value;
-    if(0 == weight::setup(&value))
-        loop(&value);
-    return 0;
-}
+

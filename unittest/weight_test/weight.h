@@ -24,6 +24,7 @@ public:
    static void init_pin();
    static void start(struct hx711_args *value);
    static int setup(struct hx711_args *value);
+   static void loop(struct weight::hx711_args *value);
 };
 
 #endif //REALTIMEEMBEDDED_WEIGHT_H
