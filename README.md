@@ -19,6 +19,6 @@ Large plastic bottle
 # Object
 * Limiting conditions:  
    1.There will be a 4h cooldown time after feeding is first turned on.  
-   2.The machine can only be turned on three times within 24 hours.
+   2.The machine can only add the food for three times within 24 hours.
 * Ultrasonic sensors detect the distance from the pet, and the feeder starts working when the pet approaches.
-* The weight sensor detects the weight of the food in the bowl. When the weight of food < 10g, start the motor to make the baffle turn to replenish food. When the weight of food > 50g, the motor stops rotating.
+* The weight sensor detects the weight of the food in the bowl. When the weight of food < 10g, start the motor to make the baffle turn to replenish food. When the weight of food > 50g, the motor rotates backward.
