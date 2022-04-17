@@ -56,7 +56,7 @@ void time_thread_run(void *ptr)
     while(1){
         sleep(time_ctl);
         hour++;
-        printf("Time\r\n",hour);
+        printf("Time%d\r\n",hour);
     }
 }
 
