@@ -14,7 +14,7 @@ Paperboard
 Large plastic bottle
 
 # Circuit Diagram
-![image](image/circuit diagram.JPG)
+![image](https://github.com/Shujing106/realtimeEmbedded/blob/947e1cb685058c497032255ce45a63e7fd66b8ab/image/circuit%20diagram.JPG)
 
 # Object
 * Limiting conditions:  
