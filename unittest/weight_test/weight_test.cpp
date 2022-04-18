@@ -1,6 +1,3 @@
-//
-// Created by Lenovo on 2022/4/16.
-//
 
 #include "weight.h"
 
