@@ -1,6 +1,3 @@
-//
-// Created by Lenovo on 2022/4/12.
-//
 
 #ifndef REALTIMEEMBEDDED_MOTOR_H
 #define REALTIMEEMBEDDED_MOTOR_H
