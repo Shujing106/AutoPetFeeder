@@ -1,6 +1,3 @@
-//
-// Created by Lenovo on 2022/4/12.
-//
 
 #ifndef REALTIMEEMBEDDED_WEIGHT_H
 #define REALTIMEEMBEDDED_WEIGHT_H
