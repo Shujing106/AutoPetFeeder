@@ -11,7 +11,6 @@ void motor::setStep(int a, int b, int c, int d)
 void motor::forward(int t, int steps)
 {
     int i;
-    steps= 70;
     for(i = 0; i < steps; i++){
         setStep(1, 0, 0, 0);
         delay(t);
