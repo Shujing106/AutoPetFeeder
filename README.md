@@ -59,13 +59,13 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 # Acknowledgement
-[Cmake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html#a-basic-starting-point-step-1)
+* [Cmake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html#a-basic-starting-point-step-1)
 
-[README templete](https://github.com/othneildrew/Best-README-Template)
+* [README templete](https://github.com/othneildrew/Best-README-Template)
 
-[Thread](https://github.com/berndporr/cppThread/blob/master/CppThread.h)
+* [Thread](https://github.com/berndporr/cppThread/blob/master/CppThread.h)
 
-[C++](https://www.learncpp.com/)
+* [C++](https://www.learncpp.com/)
 
 # Contact us 
 * Peihan Song 2703170s@student.gla.ac.uk
