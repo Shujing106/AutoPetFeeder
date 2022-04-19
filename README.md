@@ -3,7 +3,7 @@
 # Demo
 ![image](https://github.com/Shujing106/realtimeEmbedded/blob/bc505a64a9148ac952772ca07c4a7179f093678b/video/autoPetFeeder.gif)
 
-Social media:
+Full version video and Follow us on: 
 * [Youtube](https://youtu.be/EHu-TGHlu9M)
 * [Instagram](https://www.instagram.com/tv/CciDeC0DURO/?igshid=YmMyMTA2M2Y=)
 
