@@ -12,11 +12,6 @@ We are one group students at the University of Glasgow. This project is the cour
 
 ![image](https://github.com/Shujing106/realtimeEmbedded/blob/fe9dbf94ca11b8fd0e8629ee8bc73eff777eb14c/image/Demo2.jpg)
 
-# Configuration-Requirement
-* Raspberry Pi 3B+
-* C++
-* Sensors
-
 # Equipment
 * Raspberry Pi 3B+ 
 * Ultrasonic sensor (HC-SR04)
@@ -36,6 +31,32 @@ We are one group students at the University of Glasgow. This project is the cour
 * Limiting conditions:  
    1.There will be a 4h cooldown time after feeding is first turned on.  
    2.The machine can only add the food for three times within 24 hours.
+
+# Get Started
+This is an example of how to list things you need to use the software and how to install them.
+* Git
+  ```sh
+  sudo apt-get update && upgrade
+  ```  
+  ```
+  sudo apt-get install git-core
+  ```
+   
+* Cmake
+  ```sh
+  sudo apt-get install cmake 
+  ```
+
+* wiringPi
+  ```sh
+  git clone https://github.com/WiringPi/WiringPi
+  ```
+  ```
+  cd WiringPi
+  ```
+  ```
+  sudo ./build
+  ```
 
 # Acknowledgement
 [Cmake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html#a-basic-starting-point-step-1)
