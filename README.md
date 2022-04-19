@@ -18,13 +18,13 @@ We are one group students at the University of Glasgow. This project is the cour
 * Sensors
 
 # Equipment
-Raspberry Pi 3B+ 
-Ultrasonic sensor (HC-SR04)
-Weight sensor (HX711)
-Step motor (28BYJ-48)
-Paperboard  
-Large plastic bottle
-Bowl
+*Raspberry Pi 3B+ 
+*Ultrasonic sensor (HC-SR04)
+*Weight sensor (HX711)
+*Step motor (28BYJ-48)
+*Paperboard  
+*Large plastic bottle
+*Bowl
 
 # Circuit Diagram
 ![image](https://github.com/Shujing106/realtimeEmbedded/blob/947e1cb685058c497032255ce45a63e7fd66b8ab/image/circuit%20diagram.JPG)
