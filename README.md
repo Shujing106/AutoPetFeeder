@@ -7,7 +7,6 @@ Full version video and Follow us on:
 * [Youtube](https://youtu.be/EHu-TGHlu9M)
 * [Instagram](https://www.instagram.com/tv/CciDeC0DURO/?igshid=YmMyMTA2M2Y=)
 
-
 # Introduction
 Using raspberry PI to make an automatic feeder, real-time monitoring of pet movement and food weight. Realize intelligent feeding, protect the health of pets. 
 ![image](https://github.com/Shujing106/realtimeEmbedded/blob/fe9dbf94ca11b8fd0e8629ee8bc73eff777eb14c/image/Demo2.jpg)
@@ -26,7 +25,6 @@ Paperboard
 Large plastic bottle
 Bowl
 
-
 # Circuit Diagram
 ![image](https://github.com/Shujing106/realtimeEmbedded/blob/947e1cb685058c497032255ce45a63e7fd66b8ab/image/circuit%20diagram.JPG)
 
@@ -37,3 +35,13 @@ Bowl
 * Limiting conditions:  
    1.There will be a 4h cooldown time after feeding is first turned on.  
    2.The machine can only add the food for three times within 24 hours.
+
+# Contact us 
+Peihan Song 2703170s@student.gla.ac.uk
+Yifei Wang 2554706w@student.gla.ac.uk
+Shujing Yan 2658203y@student.gla.ac.uk
+Xudong Fu 2528996f@student.gla.ac.uk
+
+Project Link: https://github.com/hnhkfcy/Smart-Pets-Feeder
+Youtube Link: https://www.youtube.com/channel/UCd4SohKJhAdILFnYUXcsUTw
+Instagram Link: https://www.instagram.com/tv/CciDeC0DURO/?igshid=YmMyMTA2M2Y=
