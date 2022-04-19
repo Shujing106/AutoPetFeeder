@@ -1,6 +1,7 @@
 # Demo
 ![image](https://github.com/Shujing106/realtimeEmbedded/blob/bc505a64a9148ac952772ca07c4a7179f093678b/video/autoPetFeeder.gif)
-* Video link: https://youtu.be/EHu-TGHlu9M
+* Youtube: https://youtu.be/EHu-TGHlu9M
+* [Youtube](https://youtu.be/EHu-TGHlu9M)
 
 # Introduction
 Using raspberry PI to make an automatic feeder, real-time monitoring of pet movement and food weight. Realize intelligent feeding, protect the health of pets. 
