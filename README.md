@@ -18,13 +18,13 @@ We are one group students at the University of Glasgow. This project is the cour
 * Sensors
 
 # Equipment
-*Raspberry Pi 3B+ 
-*Ultrasonic sensor (HC-SR04)
-*Weight sensor (HX711)
-*Step motor (28BYJ-48)
-*Paperboard  
-*Large plastic bottle
-*Bowl
+* Raspberry Pi 3B+ 
+* Ultrasonic sensor (HC-SR04)
+* Weight sensor (HX711)
+* Step motor (28BYJ-48)
+* Paperboard  
+* Large plastic bottle
+* Bowl
 
 # Circuit Diagram
 ![image](https://github.com/Shujing106/realtimeEmbedded/blob/947e1cb685058c497032255ce45a63e7fd66b8ab/image/circuit%20diagram.JPG)
@@ -47,16 +47,10 @@ We are one group students at the University of Glasgow. This project is the cour
 [C++](https://www.learncpp.com/)
 
 # Contact us 
-Peihan Song 2703170s@student.gla.ac.uk
-
-Yifei Wang 2554706w@student.gla.ac.uk
-
-Shujing Yan 2658203y@student.gla.ac.uk
-
-Xudong Fu 2528996f@student.gla.ac.uk
-
-*Project Link: https://github.com/hnhkfcy/Smart-Pets-Feeder
-
-*Youtube Link: https://www.youtube.com/channel/UCd4SohKJhAdILFnYUXcsUTw
-
-*Instagram Link: https://www.instagram.com/tv/CciDeC0DURO/?igshid=YmMyMTA2M2Y=
+* Peihan Song 2703170s@student.gla.ac.uk
+* Yifei Wang 2554706w@student.gla.ac.uk
+* Shujing Yan 2658203y@student.gla.ac.uk
+* Xudong Fu 2528996f@student.gla.ac.uk
+* Project Link: https://github.com/hnhkfcy/Smart-Pets-Feeder
+* Youtube Link: https://www.youtube.com/channel/UCd4SohKJhAdILFnYUXcsUTw
+* Instagram Link: https://www.instagram.com/tv/CciDeC0DURO/?igshid=YmMyMTA2M2Y=
