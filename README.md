@@ -64,7 +64,7 @@ This is an example of how to list things you need to use the software and how to
   ```
 * Navigate to the project folder
   ```sh
-  cd AutoPetFeeder/codes
+  cd AutoPetFeeder/codes/src
   ```
   ```
   mkdir build
