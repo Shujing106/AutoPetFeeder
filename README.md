@@ -57,6 +57,34 @@ This is an example of how to list things you need to use the software and how to
   ```
   sudo ./build
   ```
+  
+* Clone the project
+  ```sh
+  git clone https://github.com/Shujing106/realtimeEmbedded
+  ```
+* Navigate to the project folder
+  ```sh
+  cd realtimeEmbedded/codes
+  ```
+  ```
+  mkdir build
+  ```
+  ```
+  cd build
+  ```
+ 
+* Link the required files and libraries using CMake
+  ```sh
+  cmake ..
+  ```
+ 
+* Build the CMake project
+  ```sh
+  make
+  ```
+
+*
+ 
 
 # Acknowledgement
 * [Cmake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html#a-basic-starting-point-step-1)
