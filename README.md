@@ -1,4 +1,4 @@
-[![4-Contributor](https://img.shields.io/badge/Contributors%20-4-brightgreen.svg?style=flat-square)](https://github.com/Shujing106/realtimeEmbedded/graphs/contributors)     [![License](https://img.shields.io/badge/License%20-MIT-red.svg?style=flat-square)](https://github.com/Shujing106/realtimeEmbedded/blob/main/LICENSE) 
+[![4-Contributor](https://img.shields.io/badge/Contributors%20-4-brightgreen.svg?style=flat-square)](https://github.com/Shujing106/realtimeEmbedded/graphs/contributors)     [![License](https://img.shields.io/badge/License%20-MIT-red.svg?style=flat-square)](https://github.com/Shujing106/realtimeEmbedded/blob/main/LICENSE) [![Stars](https://img.shields.io/badge/Stars%20-2-yellow.svg?style=flat-square)](https://github.com/Shujing106/realtimeEmbedded/blob/main/LICENSE) [![Fork](https://img.shields.io/badge/Fork%20-1-blue.svg?style=flat-square)](https://github.com/Shujing106/realtimeEmbedded/blob/main/LICENSE) 
 
 # Demo
 ![image](https://github.com/Shujing106/realtimeEmbedded/blob/bc505a64a9148ac952772ca07c4a7179f093678b/video/autoPetFeeder.gif)
