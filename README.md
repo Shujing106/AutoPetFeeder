@@ -5,7 +5,7 @@ Social media:
 * [Youtube](https://youtu.be/EHu-TGHlu9M)
 * [Instagram](https://www.instagram.com/tv/CciDeC0DURO/?igshid=YmMyMTA2M2Y=)
 
-[![4-Contributor](https://img.shields.io/badge/Contributors%20style-4-brightgreen.svg?style=flat-square)](https://github.com/Shujing106/realtimeEmbedded/graphs/contributors)
+[![4-Contributor](https://img.shields.io/badge/Contributors%20-4-brightgreen.svg?style=flat-square)](https://github.com/Shujing106/realtimeEmbedded/graphs/contributors)
 
 # Introduction
 Using raspberry PI to make an automatic feeder, real-time monitoring of pet movement and food weight. Realize intelligent feeding, protect the health of pets. 
