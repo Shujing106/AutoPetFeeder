@@ -38,11 +38,16 @@ Bowl
    2.The machine can only add the food for three times within 24 hours.
 
 # Contact us 
-*Peihan Song 2703170s@student.gla.ac.uk
-*Yifei Wang 2554706w@student.gla.ac.uk
-*Shujing Yan 2658203y@student.gla.ac.uk
-*Xudong Fu 2528996f@student.gla.ac.uk
+Peihan Song 2703170s@student.gla.ac.uk
+
+Yifei Wang 2554706w@student.gla.ac.uk
+
+Shujing Yan 2658203y@student.gla.ac.uk
+
+Xudong Fu 2528996f@student.gla.ac.uk
 
 *Project Link: https://github.com/hnhkfcy/Smart-Pets-Feeder
+
 *Youtube Link: https://www.youtube.com/channel/UCd4SohKJhAdILFnYUXcsUTw
+
 *Instagram Link: https://www.instagram.com/tv/CciDeC0DURO/?igshid=YmMyMTA2M2Y=
