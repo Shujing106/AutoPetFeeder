@@ -60,11 +60,11 @@ This is an example of how to list things you need to use the software and how to
   
 * Clone the project
   ```sh
-  git clone https://github.com/Shujing106/AutoPetFeeder
+  git clone https://github.com/Shujing106/AutoPetFeeder.git
   ```
 * Navigate to the project folder
   ```sh
-  cd realtimeEmbedded/codes
+  cd AutoPetFeeder/codes
   ```
   ```
   mkdir build
@@ -83,7 +83,7 @@ This is an example of how to list things you need to use the software and how to
   make
   ```
 
-*
+* ./AutoPetFeeder
  
 # Version Control
 check the repository to see the avilabe version
