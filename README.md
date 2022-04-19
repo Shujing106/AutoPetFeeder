@@ -15,13 +15,14 @@ Using raspberry PI to make an automatic feeder, real-time monitoring of pet move
 * Sensors
 
 # Equipment
-Raspberry Pi  
-Ultrasonic sensor  
-Weight sensor  
-Step motor  
+Raspberry Pi 3B+ 
+Ultrasonic sensor (HC-SR04)
+Weight sensor (HX711)
+Step motor (28BYJ-48)
 Paperboard  
 Large plastic bottle
 Bowl
+
 
 # Circuit Diagram
 ![image](https://github.com/Shujing106/realtimeEmbedded/blob/947e1cb685058c497032255ce45a63e7fd66b8ab/image/circuit%20diagram.JPG)
