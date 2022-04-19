@@ -85,6 +85,11 @@ This is an example of how to list things you need to use the software and how to
 
 *
  
+# Version Control
+check the repository to see the avilabe version
+
+# License
+MIT license
 
 # Acknowledgement
 * [Cmake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html#a-basic-starting-point-step-1)
