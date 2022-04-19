@@ -60,7 +60,7 @@ This is an example of how to list things you need to use the software and how to
   
 * Clone the project
   ```sh
-  git clone https://github.com/Shujing106/realtimeEmbedded
+  git clone https://github.com/Shujing106/AutoPetFeeder
   ```
 * Navigate to the project folder
   ```sh
@@ -105,6 +105,6 @@ MIT license
 * Yifei Wang 2554706w@student.gla.ac.uk
 * Shujing Yan 2658203y@student.gla.ac.uk
 * Xudong Fu 2528996f@student.gla.ac.uk
-* Project Link: https://github.com/hnhkfcy/Smart-Pets-Feeder
+* Project Link: http://github.com/Shujing106/AutoPetFeeder
 * Youtube Link: https://www.youtube.com/channel/UCd4SohKJhAdILFnYUXcsUTw
 * Instagram Link: https://www.instagram.com/tv/CciDeC0DURO/?igshid=YmMyMTA2M2Y=
