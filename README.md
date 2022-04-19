@@ -101,10 +101,10 @@ MIT license
 * [C++](https://www.learncpp.com/)
 
 # Contact us 
-* Peihan Song 2703170s@student.gla.ac.uk
-* Yifei Wang 2554706w@student.gla.ac.uk
-* Shujing Yan 2658203y@student.gla.ac.uk
-* Xudong Fu 2528996f@student.gla.ac.uk
+* Peihan Song https://github.com/PeihanSong
+* Yifei Wang https://github.com/Yifei0Wang
+* Shujing Yan https://github.com/Shujing106
+* Xudong Fu https://github.com/Fuxudong123
 * Project Link: http://github.com/Shujing106/AutoPetFeeder
 * Youtube Link: https://www.youtube.com/channel/UCd4SohKJhAdILFnYUXcsUTw
 * Instagram Link: https://www.instagram.com/tv/CciDeC0DURO/?igshid=YmMyMTA2M2Y=
