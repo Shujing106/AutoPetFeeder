@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <wiringPi.h>
 #include <pthread.h>
-#include "lib/motor.h"
-#include "lib/weight.h"
-#include "lib/distance.h"
+#include "../lib/motor.h"
+#include "../lib/weight.h"
+#include "../lib/distance.h"
 #include <unistd.h>
 
 #define DISTANCE 50
