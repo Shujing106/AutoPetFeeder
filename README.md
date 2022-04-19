@@ -9,6 +9,7 @@ Full version video and Follow us on:
 
 # Introduction
 We are one group students at the University of Glasgow. This project is the course design of our real-time embedded system. In this course, we are the team 21. We find that when pets-owners leave home for a long time, feeding pets is a big problem. So we decide to make one automatic pet feeder to help that people to feed their pets when they are busy. Basically, using raspberry PI to make an automatic feeder, real-time monitoring of pet movement and food weight. Realize intelligent feeding, protect the health of pets. 
+
 ![image](https://github.com/Shujing106/realtimeEmbedded/blob/fe9dbf94ca11b8fd0e8629ee8bc73eff777eb14c/image/Demo2.jpg)
 
 # Configuration-Requirement
@@ -37,11 +38,11 @@ Bowl
    2.The machine can only add the food for three times within 24 hours.
 
 # Contact us 
-Peihan Song 2703170s@student.gla.ac.uk
-Yifei Wang 2554706w@student.gla.ac.uk
-Shujing Yan 2658203y@student.gla.ac.uk
-Xudong Fu 2528996f@student.gla.ac.uk
+*Peihan Song 2703170s@student.gla.ac.uk
+*Yifei Wang 2554706w@student.gla.ac.uk
+*Shujing Yan 2658203y@student.gla.ac.uk
+*Xudong Fu 2528996f@student.gla.ac.uk
 
-Project Link: https://github.com/hnhkfcy/Smart-Pets-Feeder
-Youtube Link: https://www.youtube.com/channel/UCd4SohKJhAdILFnYUXcsUTw
-Instagram Link: https://www.instagram.com/tv/CciDeC0DURO/?igshid=YmMyMTA2M2Y=
+*Project Link: https://github.com/hnhkfcy/Smart-Pets-Feeder
+*Youtube Link: https://www.youtube.com/channel/UCd4SohKJhAdILFnYUXcsUTw
+*Instagram Link: https://www.instagram.com/tv/CciDeC0DURO/?igshid=YmMyMTA2M2Y=
