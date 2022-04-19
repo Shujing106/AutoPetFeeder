@@ -37,6 +37,15 @@ Bowl
    1.There will be a 4h cooldown time after feeding is first turned on.  
    2.The machine can only add the food for three times within 24 hours.
 
+# Acknowledgement
+[Cmake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html#a-basic-starting-point-step-1)
+
+[README templete](https://github.com/othneildrew/Best-README-Template)
+
+[Thread](https://github.com/berndporr/cppThread/blob/master/CppThread.h)
+
+[C++](https://www.learncpp.com/)
+
 # Contact us 
 Peihan Song 2703170s@student.gla.ac.uk
 
