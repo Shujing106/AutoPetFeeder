@@ -83,7 +83,10 @@ This is an example of how to list things you need to use the software and how to
   make
   ```
 
-* ./AutoPetFeeder
+* Run application
+  ```sh
+  ./AutoPetFeeder
+  ```
  
 # Version Control
 check the repository to see the avilabe version
